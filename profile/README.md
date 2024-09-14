@@ -1,12 +1,12 @@
-## Hi there 👋
+# SoteriaSecurity <br><sub>Molding a safer world through the power of code</sub>
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+Welcome to the GitHub organization page of SoteriaSecurity! We are a team based out of Poolesville High School dedicated and commited to using our programming and machine learning skills to help real-world security issues.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👥 Our Team:
++ Aryan Singh
++ Ekansh Dave
++ Nathan Arega
++ Omkar Bantanur
++ William Park
